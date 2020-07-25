@@ -6,4 +6,5 @@ ld -o <file> <file>.o
 ```
 
 ### Resources
-[Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)
+[Linux Syscall Table for x86 and x86_64](https://filippo.io/linux-syscall-table/)   
+[x86 Assembly book](https://en.wikibooks.org/wiki/X86_Assembly)
